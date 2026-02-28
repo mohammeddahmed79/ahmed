@@ -3,4 +3,6 @@ t=int(input("enter time period"))
 r=int(input("enter rate of interest"))
 a=p*(1+r/100)**t
 ci=a-p
-print("compound interest",ci)
+print("compoundsss interest",ci)
+print
+
